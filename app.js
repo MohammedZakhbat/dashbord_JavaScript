@@ -1,116 +1,116 @@
 const ciudades = [
 
   {
-  "nombre": "Rabat",
-  "descripcion": "Capitale moderne et historique du Maroc",
-  "imagen": "./img/rabat_hassan.jfif",
-  "caracteristicas": [
-    "Tour Hassan",
-    "Grand Théâtre",
-    "Bouregreg moderne",
-    "Ville propre et organisée"
-  ]
-},
-{
-  "nombre": "Tanger",
-  "descripcion": "Ville entre Atlantique et Méditerranée",
-  "imagen": "./img/marina_tanger.jfif",
-  "caracteristicas": [
-    "Port moderne",
-    "Mer Méditerranée",
-    "Kasbah historique",
-    "Vue panoramique"
-  ]
-},
-{
-  "nombre": "Ifrane",
-  "descripcion": "La petite Suisse du Maroc",
-  "imagen": "./img/ifrane.jfif",
-  "caracteristicas": [
-    "Neige en hiver",
-    "Architecture alpine",
-    "Forêts de cèdres",
-    "Ville propre"
-  ]
-},
-{
-  "nombre": "Marrakech",
-  "descripcion": "La ville rouge et touristique",
-  "imagen": "./img/marrakech.jfif",
-  "caracteristicas": [
-    "Jemaa el-Fna",
-    "Médina rouge",
-    "Guéliz moderne",
-    "Palmeraie"
-  ]
-},
+    "nombre": "Rabat",
+    "descripcion": "Capital moderna e histórica de Marruecos",
+    "imagen": "./img/rabat_hassan.jfif",
+    "caracteristicas": [
+      "Torre Hassan",
+      "Gran Teatro",
+      "Bouregreg moderno",
+      "Ciudad limpia y organizada"
+    ]
+  },
+  {
+    "nombre": "Tánger",
+    "descripcion": "Ciudad entre el Atlántico y el Mediterráneo",
+    "imagen": "./img/marina_tanger.jfif",
+    "caracteristicas": [
+      "Puerto moderno",
+      "Mar Mediterráneo",
+      "Kasbah histórica",
+      "Vista panorámica"
+    ]
+  },
+  {
+    "nombre": "Ifrane",
+    "descripcion": "La pequeña Suiza de Marruecos",
+    "imagen": "./img/ifrane.jfif",
+    "caracteristicas": [
+      "Nieve en invierno",
+      "Arquitectura alpina",
+      "Bosques de cedros",
+      "Ciudad limpia"
+    ]
+  },
+  {
+    "nombre": "Marrakech",
+    "descripcion": "La ciudad roja y turística",
+    "imagen": "./img/marrakech.jfif",
+    "caracteristicas": [
+      "Jemaa el-Fna",
+      "Medina roja",
+      "Guéliz moderno",
+      "Palmeral"
+    ]
+  },
 
-{
-  "nombre": "Chefchaouen",
-  "descripcion": "La ville bleue du Maroc",
-  "imagen": "./img/chefchaouen.jfif",
-  "caracteristicas": [
-    "Maisons bleues",
-    "Montagnes du Rif",
-    "Ville paisible",
-    "Tourisme photo"
-  ]
-},
-{
-  "nombre": "Agadir",
-  "descripcion": "Ville balnéaire moderne",
-  "imagen": "./img/agadir.jfif",
-  "caracteristicas": [
-    "Grande plage",
-    "Marina moderne",
-    "Climat doux",
-    "Tourisme balnéaire"
-  ]
-},
-{
-  "nombre": "Merzouga",
-  "descripcion": "Porte du désert du Sahara",
-  "imagen": "./img/marzouga.png",
-  "caracteristicas": [
-    "Dunes de l’Erg Chebbi",
-    "Chameaux",
-    "Coucher de soleil désert",
-    "Nuit étoilée"
-  ]
-},
-{
-  "nombre": "Dakhla",
-  "descripcion": "Entre désert et océan",
-  "imagen": "./img/dakhla.png",
-  "caracteristicas": [
-    "Lagune turquoise",
-    "Kitesurf mondial",
-    "Désert et mer",
-    "Nature sauvage"
-  ]
-},
-{
-  "nombre": "Ouzoud",
-  "descripcion": "Les plus grandes cascades du Maroc",
-  "imagen": "./img/ouzoud.webp",
-  "caracteristicas": [
-    "Chutes d’eau",
-    "Singe magots",
-    "Montagnes de l’Atlas",
-    "Nature verte"
-  ]
-},
-{
-  "nombre": "Fès",
-  "descripcion": "Capitale spirituelle et culturelle",
-  "imagen": "./img/fes.jpg",
-  "caracteristicas": [
-    "Médina ancienne",
-    "Tanneries",
-    "Architecture historique",
-    "UNESCO"
-  ]
-}
+  {
+    "nombre": "Chefchaouen",
+    "descripcion": "La ciudad azul de Marruecos",
+    "imagen": "./img/chefchaouen.jfif",
+    "caracteristicas": [
+      "Casas azules",
+      "Montañas del Rif",
+      "Ciudad tranquila",
+      "Turismo fotográfico"
+    ]
+  },
+  {
+    "nombre": "Agadir",
+    "descripcion": "Ciudad costera moderna",
+    "imagen": "./img/agadir.jfif",
+    "caracteristicas": [
+      "Gran playa",
+      "Marina moderna",
+      "Clima suave",
+      "Turismo de playa"
+    ]
+  },
+  {
+    "nombre": "Merzouga",
+    "descripcion": "Puerta del desierto del Sahara",
+    "imagen": "./img/marzouga.png",
+    "caracteristicas": [
+      "Dunas del Erg Chebbi",
+      "Camellos",
+      "Atardecer en el desierto",
+      "Noche estrellada"
+    ]
+  },
+  {
+    "nombre": "Dajla",
+    "descripcion": "Entre desierto y océano",
+    "imagen": "./img/dakhla.png",
+    "caracteristicas": [
+      "Laguna turquesa",
+      "Kitesurf de nivel mundial",
+      "Desierto y mar",
+      "Naturaleza salvaje"
+    ]
+  },
+  {
+    "nombre": "Ouzoud",
+    "descripcion": "Las cascadas más grandes de Marruecos",
+    "imagen": "./img/ouzoud.webp",
+    "caracteristicas": [
+      "Cascadas",
+      "Monos macacos",
+      "Montañas del Atlas",
+      "Naturaleza verde"
+    ]
+  },
+  {
+    "nombre": "Fez",
+    "descripcion": "Capital espiritual y cultural",
+    "imagen": "./img/fes.jpg",
+    "caracteristicas": [
+      "Medina antigua",
+      "Curtidurías",
+      "Arquitectura histórica",
+      "UNESCO"
+    ]
+  }
 
 ]
 
@@ -174,3 +174,39 @@ prevBtn.addEventListener("click", () => {
 })
 
 showSlide(currentIndex)
+let autoPlay = false
+let intervalId = null
+
+const autoPlayBtn = document.getElementById("autoPlayBtn")
+
+autoPlayBtn.addEventListener("click", () => {
+
+  if (!autoPlay) {
+
+    autoPlay = true
+
+    autoPlayBtn.textContent = "⏸ Stop"
+
+    intervalId = setInterval(() => {
+
+      currentIndex++
+
+      if (currentIndex >= ciudades.length) {
+        currentIndex = 0
+      }
+
+      showSlide(currentIndex)
+
+    }, 3000) 
+
+  } else {
+
+    autoPlay = false
+
+    autoPlayBtn.textContent = "▶ Auto"
+
+    clearInterval(intervalId)
+
+  }
+
+})
